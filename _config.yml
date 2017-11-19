@@ -5,7 +5,7 @@ url: "https://mrtnrnhrd.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: BookCrossing UnCon 2018# Type on Strap
+  title: BookCrossing UnCon 2018 # Type on Strap
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
