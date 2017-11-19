@@ -2,7 +2,7 @@
 layout: page
 title: Lirum
 permalink: /about/lirum/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/book-coffee.jpeg"
 ---
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
