@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Lirum
+permalink: /about/lirum/
 feature-img: "assets/img/pexels/circuit.jpeg"
 ---
 
