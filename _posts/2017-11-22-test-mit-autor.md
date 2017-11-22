@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging with title
+title: Blogging mit Autor
 tags: [lala]
 author: maritn
 ---
