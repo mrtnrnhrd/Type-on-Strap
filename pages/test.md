@@ -1,5 +1,5 @@
 ---
-layout: bootstrap
+layout: post
 title: Test
 permalink: /test/
 feature-img: "assets/img/pexels/circuit.jpeg"
